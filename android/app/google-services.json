@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391987940668",
+    "project_id": "text-recognizer-app-ef4d0",
+    "storage_bucket": "text-recognizer-app-ef4d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391987940668:android:1a8e123afed60220bca239",
+        "android_client_info": {
+          "package_name": "com.example.text_recognizer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391987940668-gvkti4qknl5ne1e0ucdntfsb2qc739em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDteMmHtAEx11S9zfbYElR94cJCljmPgTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391987940668-gvkti4qknl5ne1e0ucdntfsb2qc739em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
